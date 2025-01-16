@@ -1,0 +1,5 @@
+streamlit==1.41.1
+folium==0.19.4
+requests==2.32.3
+streamlit-folium==0.24.0
+sockets==1.0.0
